@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou o Gabriel Colussi
+# 👨‍💻 Olá, eu sou o Gabriel Luis
 
 💻 **Desenvolvedor em formação** (ADS) com foco em **PHP, MySQL, JavaScript e Front-end (HTML, CSS)**.  
 🚀 Apaixonado por tecnologia, criação de sistemas e constante aprendizado.
