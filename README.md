@@ -36,5 +36,5 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLuisColussi&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuisColussi&layout=compact&theme=dracula)
