@@ -1,43 +1,90 @@
-# 👨‍💻 Olá, eu sou o Gabriel Luis
+<!-- Header com efeito azul/roxo -->
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=header&text=Gabriel+Luis&fontSize=40&fontColor=ffffff&animation=twinkling"
+  />
+</div>
 
-💻 **Desenvolvedor em formação** (ADS) com foco em **Front-end, UI/UX e JavaScript**.  
-🚀 Estudando para criar interfaces modernas, responsivas e centradas na experiência do usuário.  
-
-🎯 Atualmente, **buscando oportunidades como Desenvolvedor Júnior** para aplicar meus conhecimentos e crescer junto com a equipe.
-
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Apresentação -->
+<h2 align="center">👨‍💻 Desenvolvedor em formação | Front-end & UI/UX</h2>
+<h4 align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em <b>Front-end, UI/UX e JavaScript</b>.  
+Também tenho experiência em <b>PHP e MySQL</b>, construindo sistemas completos.  
+Atualmente, estou <b>buscando oportunidades como Desenvolvedor Júnior</b>.
+</h4>
 
 ---
 
-## 📌 Projetos em Destaque
-- 🔹 CRUD completo em **PHP + MySQL** para gestão de tarefas.  
-- 🔹 Sistema em **PHP POO + MySQL** com cadastro de alunos/professores.  
-- 🔹 Protótipos de sistemas web com **HTML, CSS e JavaScript**.  
-- 🔹 Relatórios exportáveis em **XLSX e PDF** integrados a sistemas.  
+<!-- Status -->
+<div align="center">
+<a href="https://github.com/gabrielcolussi" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=gabrielcolussi&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+</a>
+</div>
 
 ---
 
-## 📚 O que estou aprendendo
-- **JavaScript avançado** para aplicações interativas.  
-- **Front-end moderno**: boas práticas em HTML5 & CSS3.  
-- **UI/UX Design** usando conceitos de usabilidade e prototipagem com Figma.  
-- **PHP** para dar suporte ao back-end e integrar sistemas.  
+<!-- Sobre mim -->
+<h3>💫 Sobre mim</h3>
+
+- 🎯 Atualmente focado em **JavaScript, HTML, CSS e boas práticas de UI/UX**  
+- 🛠️ Experiência em **CRUDs com PHP + MySQL**  
+- 🎨 Criando **interfaces modernas e responsivas**  
+- 🚀 Buscando minha primeira oportunidade como **Desenvolvedor Júnior**  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLuisColussi&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuisColussi&layout=compact&theme=dracula)
+<!-- Tecnologias -->
+<h3 align="left">🛠️ Tecnologias & Ferramentas</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,php,mysql,git,github,vscode,figma" />
+</div>
+
+---
+
+<!-- Projetos -->
+<h3>📌 Projetos em Destaque</h3>
+
+- CRUD em **PHP + MySQL** para gestão de alunos/professores  
+- Sistema de **agendamento de clínica** (HTML, CSS, JS, MySQL)  
+- Protótipos de **UI/UX no Figma**  
+- Relatórios exportáveis em **XLSX e PDF**  
+
+---
+
+<!-- GitHub Status -->
+<h3 align="center">🌱 Github Status</h3>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielLuisColussi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLuisColussi&theme=tokyonight" />
+</div>
+
+---
+
+<!-- Contato -->
+<h3>📬 Conecte-se comigo</h3>
+<p align="left">
+  <a href="mailto:gabrielcolussi.gc@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-luis-colussi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Imagem final remetendo a Front-end -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <br>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Frontend animation" width="600"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer"/>
+</div>
