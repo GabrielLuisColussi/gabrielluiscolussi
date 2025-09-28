@@ -2,6 +2,7 @@
 
 💻 **Desenvolvedor em formação** (ADS) com foco em **PHP, MySQL, JavaScript e Front-end (HTML, CSS)**.  
 🚀 Apaixonado por tecnologia, criação de sistemas e constante aprendizado.
+
 🎯 Atualmente, **buscando oportunidades como Desenvolvedor Júnior** para aplicar meus conhecimentos e crescer junto com a equipe.
 
 ---
