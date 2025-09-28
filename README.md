@@ -7,15 +7,15 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -28,10 +28,10 @@
 ---
 
 ## 📚 O que estou aprendendo
-- Estruturas de dados e POO em **PHP**.  
-- Fundamentos de **JavaScript para web**.  
-- Boas práticas com **Git/GitHub**.  
-- Organização de código com **MVC**.  
+- **JavaScript avançado** para aplicações interativas.  
+- **Front-end moderno**: boas práticas em HTML5 & CSS3.  
+- **UI/UX Design** usando conceitos de usabilidade e prototipagem com Figma.  
+- **PHP** para dar suporte ao back-end e integrar sistemas.  
 
 ---
 
